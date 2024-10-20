@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"func_functional",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"func_functional",
+  "parent":{
+    "name":"gm_sequence_plan",
+    "path":"gm_sequence_plan.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
